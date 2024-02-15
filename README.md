@@ -1,2 +1,2 @@
-# Kush
+# Mkay
 Everythings that goes
